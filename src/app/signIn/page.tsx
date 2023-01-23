@@ -1,7 +1,12 @@
 
 
 const SignIn = () => {
-    return (<div>signIn</div>)
+    return (
+    
+    <div>
+        <label>email：</label>
+        <input/>
+    </div>)
 }
 
 export default  SignIn;
